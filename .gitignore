@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.xml
+*.tmp
+*.temp
+*.log
+.env*
+*.key
+*.pem
+*.p12
+*.pfx
+id_rsa
+id_ed25519
+.ssh/
+secrets/
